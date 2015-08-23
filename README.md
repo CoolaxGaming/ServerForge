@@ -13,6 +13,6 @@ Why choose over Bukkit?
 -----------------------
 
 * Has a license (BSD that applies to the mod only and not to forge or the vanilla Minecraft code)
-* Easy intergration with Forge Modpack servers (Even though cauldron exists however by the looks of it, their project is going away.)
+* Easy intergration with Forge Modpack servers (Cauldron is discontinued)
 * Not being takendown by DMCA
 * Plugins can be easily tested within Minecraft singleplayer (Simply add the .jar file to the singleplayer mods folder)
